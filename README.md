@@ -4,15 +4,15 @@
 
 <br/>
 
-**Computer Engineering Student · NUST Islamabad · Class of 2023**  
+**Computer Engineering Student · NUST Islamabad · Class of 2027**  
 Building AI systems at the intersection of computer vision, machine learning, and real-world hardware.  
 Currently deep in my FYP - an AI behavioral trading intelligence system using CV + facial expression analysis.
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abu-bakarchaudhary)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://abu-bakarchaudhary.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abubakar-chaudhary-ce45)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abubakarch1712@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://abu-bakarchaudhary.github.io/my-portfolio/)
 
 </div>
 
