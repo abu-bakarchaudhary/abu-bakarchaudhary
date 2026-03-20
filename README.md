@@ -128,7 +128,7 @@ Using **computer vision + ML** to analyze a trader's emotional and cognitive sta
 Actively looking for **Summer 2025 internship opportunities** in AI/ML, computer vision, or software engineering - Pakistan-based roles preferred.
 
 - 📧 `abubakarch1712@gmail.com`
-- 💼 [linkedin.com/in/abu-bakarchaudhary](https://linkedin.com/in/abubakar-chaudhary-ce45)
+- 💼 [linkedin.com/in/AbuBakar Chaudhary](https://linkedin.com/in/abubakar-chaudhary-ce45)
 
 ---
 
