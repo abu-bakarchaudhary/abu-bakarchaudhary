@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=AbuBakar%20Chaudhary&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Computer%20Engineer%20%7C%20AI%2FML%20%26%20Computer%20Vision&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
+<img src="assets/banner.svg" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1200&color=2DD4BF&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student+%40+NUST+CEME;AI%2FML+%26+Computer+Vision+Developer;Flutter+%26+Full-Stack+Developer;Building+AI+Behavioral+Trading+Intelligence" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1200&color=2DD4BF&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student+%40+NUST+CEME;AI%2FML+%26+Computer+Vision+Developer;Flutter+%26+Full-Stack+Developer;Building+AI+Behavioral+Trading+Intelligence" alt="Typing SVG" />
 </a>
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=abu-bakarchaudhary&color=2dd4bf&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=abu-bakarchaudhary&color=0f172a&style=flat-square&label=Profile+Views)
 
 </div>
 
@@ -26,17 +26,32 @@ Outside of coursework I freelance on Fiverr and Upwork — Python automation, co
 
 ## Tech Stack
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,cpp,java,dart,flutter,react,firebase,mysql,opencv,pytorch,tensorflow,matlab,git,github,figma" />
-</p>
+**Languages**
+<br>
+<img src="https://img.shields.io/badge/Python-0f172a?style=flat-square&logo=python&logoColor=5eead4" />
+<img src="https://img.shields.io/badge/C%2B%2B-0f172a?style=flat-square&logo=cplusplus&logoColor=5eead4" />
+<img src="https://img.shields.io/badge/Java-0f172a?style=flat-square&logo=openjdk&logoColor=5eead4" />
+<img src="https://img.shields.io/badge/Dart-0f172a?style=flat-square&logo=dart&logoColor=5eead4" />
+<img src="https://img.shields.io/badge/MATLAB-0f172a?style=flat-square" />
+<img src="https://img.shields.io/badge/Verilog-0f172a?style=flat-square" />
+<img src="https://img.shields.io/badge/SQL%20Server-0f172a?style=flat-square&logo=microsoftsqlserver&logoColor=5eead4" />
 
-<p align="left">
-<img src="https://img.shields.io/badge/Verilog-A6122D?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
-<img src="https://img.shields.io/badge/Tkinter-2DD4BF?style=flat-square" />
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-<img src="https://img.shields.io/badge/YOLOv8-111F68?style=flat-square" />
-</p>
+**AI / ML & Computer Vision**
+<br>
+<img src="https://img.shields.io/badge/OpenCV-0f172a?style=flat-square&logo=opencv&logoColor=5eead4" />
+<img src="https://img.shields.io/badge/PyTorch-0f172a?style=flat-square&logo=pytorch&logoColor=5eead4" />
+<img src="https://img.shields.io/badge/TensorFlow-0f172a?style=flat-square&logo=tensorflow&logoColor=5eead4" />
+<img src="https://img.shields.io/badge/NumPy-0f172a?style=flat-square&logo=numpy&logoColor=5eead4" />
+
+**Frameworks & Tools**
+<br>
+<img src="https://img.shields.io/badge/Flutter-0f172a?style=flat-square&logo=flutter&logoColor=5eead4" />
+<img src="https://img.shields.io/badge/React-0f172a?style=flat-square&logo=react&logoColor=5eead4" />
+<img src="https://img.shields.io/badge/Firebase-0f172a?style=flat-square&logo=firebase&logoColor=5eead4" />
+<img src="https://img.shields.io/badge/Flask-0f172a?style=flat-square&logo=flask&logoColor=5eead4" />
+<img src="https://img.shields.io/badge/Tkinter-0f172a?style=flat-square" />
+<img src="https://img.shields.io/badge/Git-0f172a?style=flat-square&logo=git&logoColor=5eead4" />
+<img src="https://img.shields.io/badge/Figma-0f172a?style=flat-square&logo=figma&logoColor=5eead4" />
 
 ---
 
@@ -44,14 +59,14 @@ Outside of coursework I freelance on Fiverr and Upwork — Python automation, co
 
 | Project | What it does | Stack |
 |---|---|---|
-| 🧠 **AI Behavioral Trading Intelligence** *(FYP, in progress)* | Reads screen activity and facial expressions to flag a trader's stress and overconfidence, giving real-time feedback to improve trading discipline. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) |
-| 🛢️ [Project ALERT](https://github.com/abu-bakarchaudhary/REPO_NAME) | YOLOv8 industrial spill detection — live video sampled every 0.5s, with a 3-interval consecutive-detection check before confirming a spill (yellow = unverified, red = confirmed). | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![YOLOv8](https://img.shields.io/badge/-YOLOv8-111F68?style=flat-square) |
-| 🗄️ [NL-to-SQL Desktop Tool](https://github.com/abu-bakarchaudhary/REPO_NAME) | Desktop app that turns plain-English questions into SQL Server queries. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Tkinter](https://img.shields.io/badge/-Tkinter-2DD4BF?style=flat-square) |
-| 📊 [NL Spreadsheet Assistant](https://github.com/abu-bakarchaudhary/REPO_NAME) | React app for querying Excel/CSV files in plain English, powered by the Claude API, with folder-level loading and conversation history. | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![SheetJS](https://img.shields.io/badge/-SheetJS-2DD4BF?style=flat-square) |
-| 🎓 [Nustified Synapse](https://github.com/abu-bakarchaudhary/REPO_NAME) | Anonymous professor-review platform for NUST CEME — professor-following, email verification, and a notice board. | ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) |
-| 🏗️ [FreelanceHub](https://github.com/abu-bakarchaudhary/REPO_NAME) | End-to-end database engineering project — 21 SQL Server tables, 210+ sample records, views, triggers, and a Flask frontend. | ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white) |
+| **AI Behavioral Trading Intelligence** *(FYP, in progress)* | Reads screen activity and facial expressions to flag a trader's stress and overconfidence, giving real-time feedback to improve trading discipline. | ![Python](https://img.shields.io/badge/Python-0f172a?style=flat-square&logo=python&logoColor=5eead4) ![OpenCV](https://img.shields.io/badge/OpenCV-0f172a?style=flat-square&logo=opencv&logoColor=5eead4) |
+| [Project ALERT](https://github.com/abu-bakarchaudhary/REPO_NAME) | YOLOv8 industrial spill detection — live video sampled every 0.5s, with a 3-interval consecutive-detection check before confirming a spill (yellow = unverified, red = confirmed). | ![Python](https://img.shields.io/badge/Python-0f172a?style=flat-square&logo=python&logoColor=5eead4) ![YOLOv8](https://img.shields.io/badge/YOLOv8-0f172a?style=flat-square) |
+| [NL-to-SQL Desktop Tool](https://github.com/abu-bakarchaudhary/REPO_NAME) | Desktop app that turns plain-English questions into SQL Server queries. | ![Python](https://img.shields.io/badge/Python-0f172a?style=flat-square&logo=python&logoColor=5eead4) ![Tkinter](https://img.shields.io/badge/Tkinter-0f172a?style=flat-square) |
+| [NL Spreadsheet Assistant](https://github.com/abu-bakarchaudhary/REPO_NAME) | React app for querying Excel/CSV files in plain English, powered by the Claude API, with folder-level loading and conversation history. | ![React](https://img.shields.io/badge/React-0f172a?style=flat-square&logo=react&logoColor=5eead4) ![SheetJS](https://img.shields.io/badge/SheetJS-0f172a?style=flat-square) |
+| [Nustified Synapse](https://github.com/abu-bakarchaudhary/REPO_NAME) | Anonymous professor-review platform for NUST CEME — professor-following, email verification, and a notice board. | ![Flutter](https://img.shields.io/badge/Flutter-0f172a?style=flat-square&logo=flutter&logoColor=5eead4) ![Firebase](https://img.shields.io/badge/Firebase-0f172a?style=flat-square&logo=firebase&logoColor=5eead4) |
+| [FreelanceHub](https://github.com/abu-bakarchaudhary/REPO_NAME) | End-to-end database engineering project — 21 SQL Server tables, 210+ sample records, views, triggers, and a Flask frontend. | ![SQL Server](https://img.shields.io/badge/SQL%20Server-0f172a?style=flat-square&logo=microsoftsqlserver&logoColor=5eead4) ![Flask](https://img.shields.io/badge/Flask-0f172a?style=flat-square&logo=flask&logoColor=5eead4) |
 
-📌 More projects on my [portfolio site](https://abu-bakarchaudhary.github.io/my-portfolio)
+More projects on my [portfolio site](https://abu-bakarchaudhary.github.io/my-portfolio).
 
 ---
 
@@ -59,18 +74,18 @@ Outside of coursework I freelance on Fiverr and Upwork — Python automation, co
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=abu-bakarchaudhary&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abu-bakarchaudhary&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=abu-bakarchaudhary&show_icons=true&hide_border=true&bg_color=0a0e17&title_color=2DD4BF&text_color=cbd5e1&icon_color=5eead4&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abu-bakarchaudhary&layout=compact&hide_border=true&bg_color=0a0e17&title_color=2DD4BF&text_color=cbd5e1" />
 
-<img src="https://streak-stats.demolab.com?user=abu-bakarchaudhary&theme=tokyonight&hide_border=true" />
+<br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=abu-bakarchaudhary&theme=tokyonight&no-frame=true&row=1&column=7" />
+<img src="https://streak-stats.demolab.com?user=abu-bakarchaudhary&hide_border=true&background=0A0E17&ring=2DD4BF&fire=2DD4BF&currStreakLabel=2DD4BF&sideLabels=cbd5e1&dates=64748B" />
 
 </div>
 
 ---
 
-## Contribution Snake
+## Contribution Activity
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abu-bakarchaudhary/abu-bakarchaudhary/output/github-contribution-grid-snake-dark.svg">
@@ -78,18 +93,18 @@ Outside of coursework I freelance on Fiverr and Upwork — Python automation, co
   <img alt="contribution snake animation" src="https://raw.githubusercontent.com/abu-bakarchaudhary/abu-bakarchaudhary/output/github-contribution-grid-snake.svg">
 </picture>
 
-*(This needs a one-time GitHub Action setup — see `snake.yml` below.)*
+*(Needs the one-time GitHub Action in `snake.yml` — see setup note below.)*
 
 ---
 
-## Connect With Me
+## Connect
 
 <p align="left">
-<a href="LINKEDIN_URL_HERE" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="FIVERR_URL_HERE" target="_blank"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" /></a>
-<a href="UPWORK_URL_HERE" target="_blank"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" /></a>
-<a href="https://abu-bakarchaudhary.github.io/my-portfolio" target="_blank"><img src="https://img.shields.io/badge/Portfolio-2DD4BF?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-<a href="mailto:YOUR_EMAIL_HERE" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="LINKEDIN_URL_HERE" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=5eead4" /></a>
+<a href="FIVERR_URL_HERE" target="_blank"><img src="https://img.shields.io/badge/Fiverr-0f172a?style=for-the-badge&logo=fiverr&logoColor=5eead4" /></a>
+<a href="UPWORK_URL_HERE" target="_blank"><img src="https://img.shields.io/badge/Upwork-0f172a?style=for-the-badge&logo=upwork&logoColor=5eead4" /></a>
+<a href="https://abu-bakarchaudhary.github.io/my-portfolio" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=googlechrome&logoColor=5eead4" /></a>
+<a href="mailto:YOUR_EMAIL_HERE" target="_blank"><img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=5eead4" /></a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
+<img src="assets/footer.svg" width="100%"/>
