@@ -1,137 +1,95 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Hey%2C+I'm+Abu-Bakar+%F0%9F%91%8B;Computer+Engineer+%40+NUST;Building+AI+%2B+Computer+Vision+Systems;Open+to+Internship+Opportunities)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=AbuBakar%20Chaudhary&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Computer%20Engineer%20%7C%20AI%2FML%20%26%20Computer%20Vision&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
 
-<br/>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1200&color=2DD4BF&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student+%40+NUST+CEME;AI%2FML+%26+Computer+Vision+Developer;Flutter+%26+Full-Stack+Developer;Building+AI+Behavioral+Trading+Intelligence" alt="Typing SVG" />
+</a>
 
-**Computer Engineering Student · NUST Islamabad · Class of 2027**  
-Building AI systems at the intersection of computer vision, machine learning, and real-world hardware.  
-Currently deep in my FYP - an AI behavioral trading intelligence system using CV + facial expression analysis.
+<br>
 
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abubakar-chaudhary-ce45)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abubakarch1712@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://abu-bakarchaudhary.github.io/my-portfolio/)
+![Profile Views](https://komarev.com/ghpvc/?username=abu-bakarchaudhary&color=2dd4bf&style=flat-square&label=Profile+Views)
 
 </div>
 
 ---
 
-## 🧠 Final Year Project - AI Behavioral Trading Intelligence *(2026–2027)*
+## About Me
 
-> *Not market prediction. Trader behavior prediction.*
+I'm a Computer Engineering student at **NUST CEME** (Batch DE-45, 2023–2027), currently in my 6th semester.
 
-Using **computer vision + ML** to analyze a trader's emotional and cognitive state in real time - stress, overconfidence, decision fatigue - via screen interaction patterns and facial expression analysis. Delivers live feedback to improve trading discipline before bad trades happen.
+Right now I'm building my Final Year Project, **AI Behavioral Trading Intelligence** — a CV/ML system that reads a trader's screen activity and facial expressions to flag stress and overconfidence in real time. It's a feedback tool for trading discipline, not a market predictor.
 
-**Stack:** OpenCV · MediaPipe · PyTorch · Hardware-accelerated inference · Python
-
----
-
-## 🚀 Projects
-
-### 🤖 AI / Machine Learning / Computer Vision
-
-| Project | Description | Stack |
-|--------|-------------|-------|
-| [🧠 AI Behavioral Trading Intelligence](https://github.com/abu-bakarchaudhary/ai-behavioral-trading-intelligence) | FYP - real-time trader stress & overconfidence detection using facial AUs + screen behavior | Python · OpenCV · MediaPipe · PyTorch |
-| [🔍 Canny Edge Detection — From Scratch](https://github.com/abu-bakarchaudhary/canny-edge-detection) | Full manual pipeline: Gaussian blur → gradient computation → NMS → double-threshold hysteresis. No cv2.Canny() | Python · NumPy · OpenCV |
-| [👁️ Retinal Image Segmentation](https://github.com/abu-bakarchaudhary/retinal-segmentation) | Optic disc & cup segmentation pipeline with batch directory processing for medical image datasets | Python · OpenCV · NumPy |
-
-### 📱 Mobile / App Development
-
-| Project | Description | Stack |
-|--------|-------------|-------|
-| [💸 Peer Debt Manager](https://github.com/abu-bakarchaudhary/peer-debt-manager) | P2P debt tracking app for university students - split expenses, track balances, settle payments | Flutter · Dart · Firebase |
-
-### ⚡ Embedded Systems / IoT
-
-| Project | Description | Stack |
-|--------|-------------|-------|
-| [🏠 MMBD Home Automation](https://github.com/abu-bakarchaudhary/mmbd-home-automation) | Smart home system using MMBD sensors — sensor fusion, MQTT messaging, real-time device control | Python · IoT · MQTT · Embedded C |
-
-### 📡 Digital Signal Processing
-
-| Project | Description | Stack |
-|--------|-------------|-------|
-| [🎵 DSP Audio Processing Lab](https://github.com/abu-bakarchaudhary/dsp-audio-processing) | Audio filtering, spectral analysis, FFT visualization, and filter design on real audio signals | MATLAB · Python |
-| [🔢 FFT Twiddle Factor Visualizer](https://github.com/abu-bakarchaudhary/fft-twiddle-visualizer) | Interactive N=8 DFT twiddle factor matrix — complex exponential animation in the browser | HTML · JavaScript · SVG |
-
-### 🗄️ Databases / Backend
-
-| Project | Description | Stack |
-|--------|-------------|-------|
-| [📊 EER Diagram Modeler](https://github.com/abu-bakarchaudhary/eer-diagram-modeler) | Advanced EER models with specialization, disjoint constraints, weak entities, and supertype/subtype structures | Database Design · Draw.io |
-
-### 🖥️ Systems / General Programming
-
-| Project | Description | Stack |
-|--------|-------------|-------|
-| [🍵 Tea Shop Management System](https://github.com/abu-bakarchaudhary/tea-shop-management) | CLI-based shop management - inventory, orders, billing, customer records | C++ · Python |
-| [🌐 Networking Labs — Packet Tracer](https://github.com/abu-bakarchaudhary/networking-labs) | Network topology design, routing protocols, subnetting, and simulation labs | Cisco Packet Tracer |
+Outside of coursework I freelance on Fiverr and Upwork — Python automation, computer vision, Flutter, and database work — and I'm steadily building out an AI/ML project portfolio. Away from the keyboard: volleyball, badminton, the gym, photography, and calligraphy.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,cpp,java,dart,flutter,react,firebase,mysql,opencv,pytorch,tensorflow,matlab,git,github,figma" />
+</p>
+
+<p align="left">
+<img src="https://img.shields.io/badge/Verilog-A6122D?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+<img src="https://img.shields.io/badge/Tkinter-2DD4BF?style=flat-square" />
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/YOLOv8-111F68?style=flat-square" />
+</p>
+
+---
+
+## Featured Projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| 🧠 **AI Behavioral Trading Intelligence** *(FYP, in progress)* | Reads screen activity and facial expressions to flag a trader's stress and overconfidence, giving real-time feedback to improve trading discipline. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) |
+| 🛢️ [Project ALERT](https://github.com/abu-bakarchaudhary/REPO_NAME) | YOLOv8 industrial spill detection — live video sampled every 0.5s, with a 3-interval consecutive-detection check before confirming a spill (yellow = unverified, red = confirmed). | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![YOLOv8](https://img.shields.io/badge/-YOLOv8-111F68?style=flat-square) |
+| 🗄️ [NL-to-SQL Desktop Tool](https://github.com/abu-bakarchaudhary/REPO_NAME) | Desktop app that turns plain-English questions into SQL Server queries. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Tkinter](https://img.shields.io/badge/-Tkinter-2DD4BF?style=flat-square) |
+| 📊 [NL Spreadsheet Assistant](https://github.com/abu-bakarchaudhary/REPO_NAME) | React app for querying Excel/CSV files in plain English, powered by the Claude API, with folder-level loading and conversation history. | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![SheetJS](https://img.shields.io/badge/-SheetJS-2DD4BF?style=flat-square) |
+| 🎓 [Nustified Synapse](https://github.com/abu-bakarchaudhary/REPO_NAME) | Anonymous professor-review platform for NUST CEME — professor-following, email verification, and a notice board. | ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) |
+| 🏗️ [FreelanceHub](https://github.com/abu-bakarchaudhary/REPO_NAME) | End-to-end database engineering project — 21 SQL Server tables, 210+ sample records, views, triggers, and a Flask frontend. | ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white) |
+
+📌 More projects on my [portfolio site](https://abu-bakarchaudhary.github.io/my-portfolio)
+
+---
+
+## GitHub Stats
 
 <div align="center">
 
-**Languages**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=abu-bakarchaudhary&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abu-bakarchaudhary&layout=compact&theme=tokyonight&hide_border=true" />
 
-**Frameworks & Tools**  
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+<img src="https://streak-stats.demolab.com?user=abu-bakarchaudhary&theme=tokyonight&hide_border=true" />
 
-**Areas**  
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-blueviolet?style=flat-square)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-blue?style=flat-square)
-![DSP](https://img.shields.io/badge/Digital%20Signal%20Processing-teal?style=flat-square)
-![Mobile Dev](https://img.shields.io/badge/Mobile%20Development-02569B?style=flat-square)
-![Embedded Systems](https://img.shields.io/badge/Embedded%20Systems-green?style=flat-square)
+<img src="https://github-profile-trophy.vercel.app/?username=abu-bakarchaudhary&theme=tokyonight&no-frame=true&row=1&column=7" />
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## Contribution Snake
 
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=abu-bakarchaudhary&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abu-bakarchaudhary&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abu-bakarchaudhary/abu-bakarchaudhary/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abu-bakarchaudhary/abu-bakarchaudhary/output/github-contribution-grid-snake.svg">
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/abu-bakarchaudhary/abu-bakarchaudhary/output/github-contribution-grid-snake.svg">
+</picture>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=abu-bakarchaudhary&theme=github-dark-blue&hide_border=true" />
-</div>
-
----
-
-## 📚 Currently Studying
-
-- 🤖 Deep learning for real-time facial action unit (AU) detection
-- 📡 Digital Signal Processing - DTFT, FFT, filter design, spectral analysis
-- 🗄️ Database Engineering - EER modeling, query optimization
-- 🖼️ Digital Image Processing - morphological operations, segmentation pipelines
+*(This needs a one-time GitHub Action setup — see `snake.yml` below.)*
 
 ---
 
-## 📫 Let's Connect
+## Connect With Me
 
-Actively looking for **Summer 2025 internship opportunities** in AI/ML, computer vision, or software engineering - Pakistan-based roles preferred.
+<p align="left">
+<a href="LINKEDIN_URL_HERE" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="FIVERR_URL_HERE" target="_blank"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" /></a>
+<a href="UPWORK_URL_HERE" target="_blank"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" /></a>
+<a href="https://abu-bakarchaudhary.github.io/my-portfolio" target="_blank"><img src="https://img.shields.io/badge/Portfolio-2DD4BF?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="mailto:YOUR_EMAIL_HERE" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
-- 📧 `abubakarch1712@gmail.com`
-- 💼 [linkedin.com/in/AbuBakar Chaudhary](https://linkedin.com/in/abubakar-chaudhary-ce45)
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=abu-bakarchaudhary&color=58a6ff&style=flat-square&label=Profile+Views" />
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
