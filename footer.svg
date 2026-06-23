@@ -1,0 +1,13 @@
+<svg viewBox="0 0 1200 80" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#123446"/>
+      <stop offset="100%" stop-color="#0a0e17"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="80" rx="14" fill="url(#bgGrad2)"/>
+  <g stroke="#2DD4BF" fill="none" opacity="0.18">
+    <path d="M0,40 H120 V20 H260 V60 H420 V30 H600 V50 H780 V20 H960 V55 H1140 V35 H1200" stroke-width="1.5"/>
+  </g>
+  <text x="1140" y="55" text-anchor="end" font-family="Consolas, Menlo, monospace" font-size="12" fill="#5eead4" opacity="0.6">github.com/abu-bakarchaudhary</text>
+</svg>
