@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" width="100%"/>
+<img src="banner.svg" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1200&color=2DD4BF&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student+%40+NUST+CEME;AI%2FML+%26+Computer+Vision+Developer;Flutter+%26+Full-Stack+Developer;Building+AI+Behavioral+Trading+Intelligence" alt="Typing SVG" />
@@ -107,4 +107,4 @@ More projects on my [portfolio site](https://abu-bakarchaudhary.github.io/my-por
 <a href="mailto:YOUR_EMAIL_HERE" target="_blank"><img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=5eead4" /></a>
 </p>
 
-<img src="assets/footer.svg" width="100%"/>
+<img src="footer.svg" width="100%"/>
