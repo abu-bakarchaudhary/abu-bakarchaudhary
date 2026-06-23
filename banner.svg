@@ -1,0 +1,47 @@
+<svg viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a0e17"/>
+      <stop offset="100%" stop-color="#123446"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="300" rx="18" fill="url(#bgGrad)"/>
+
+  <!-- faint circuit traces, right half -->
+  <g stroke="#2DD4BF" fill="none" opacity="0.14">
+    <path d="M650,40 H760 V90 H880" stroke-width="1.5"/>
+    <path d="M700,260 H800 V210 H920 V150" stroke-width="1.5"/>
+    <path d="M980,30 V100 H1100 V60 H1180" stroke-width="1.5"/>
+    <path d="M620,180 H700 V220 H780" stroke-width="1.5"/>
+  </g>
+  <g fill="#2DD4BF" opacity="0.22">
+    <circle cx="760" cy="40" r="3"/>
+    <circle cx="880" cy="90" r="3"/>
+    <circle cx="800" cy="260" r="3"/>
+    <circle cx="920" cy="150" r="3"/>
+    <circle cx="1100" cy="100" r="3"/>
+    <circle cx="700" cy="180" r="3"/>
+    <circle cx="780" cy="220" r="3"/>
+  </g>
+
+  <!-- signal line (circuit trace + chart line in one) with a traveling pulse -->
+  <path id="signalPath" d="M640,250 L740,250 L740,170 L840,170 L840,210 L940,210 L940,100 L1040,100 L1040,160 L1140,160 L1140,70" stroke="#2DD4BF" stroke-width="2" fill="none" opacity="0.5"/>
+  <circle r="5" fill="#5eead4" filter="url(#glow)">
+    <animateMotion dur="6s" repeatCount="indefinite">
+      <mpath href="#signalPath"/>
+    </animateMotion>
+  </circle>
+
+  <!-- identity -->
+  <text x="60" y="148" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="48" font-weight="600" fill="#f1f5f9">AbuBakar Chaudhary</text>
+  <text x="60" y="190" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="18" fill="#5eead4" letter-spacing="0.5">Computer Engineering • AI/ML &amp; Computer Vision</text>
+  <rect x="60" y="206" width="64" height="3" rx="1.5" fill="#2DD4BF" opacity="0.85"/>
+</svg>
