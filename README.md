@@ -100,11 +100,9 @@ More projects on my [portfolio site](https://abu-bakarchaudhary.github.io/my-por
 ## Connect
 
 <p align="left">
-<a href="LINKEDIN_URL_HERE" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=5eead4" /></a>
-<a href="FIVERR_URL_HERE" target="_blank"><img src="https://img.shields.io/badge/Fiverr-0f172a?style=for-the-badge&logo=fiverr&logoColor=5eead4" /></a>
-<a href="UPWORK_URL_HERE" target="_blank"><img src="https://img.shields.io/badge/Upwork-0f172a?style=for-the-badge&logo=upwork&logoColor=5eead4" /></a>
+<a href="abubakar-chaudhary-ce45" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=5eead4" /></a>
 <a href="https://abu-bakarchaudhary.github.io/my-portfolio" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=googlechrome&logoColor=5eead4" /></a>
-<a href="mailto:YOUR_EMAIL_HERE" target="_blank"><img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=5eead4" /></a>
+<a href="mailto:abubakarch1712@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=5eead4" /></a>
 </p>
 
 <img src="footer.svg" width="100%"/>
